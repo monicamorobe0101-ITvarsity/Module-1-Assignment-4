@@ -1,0 +1,57 @@
+body{
+   background-color: blueviolet;
+}
+
+h1{
+    color: chocolate;
+    font-size: 30;
+    font-family: Copperplate Gothic; 
+    background-color:black;;
+}
+
+table{
+    
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:groove;
+    border-color: purple;  
+    width: 1060;
+}
+
+td{
+    font-family:monospace;
+    background-color: black;;
+    border-right-color: chocolate;
+    border-bottom-style: dotted;
+    border-bottom-color: chocolate;
+    color: yellow;
+    font-size: 18;
+    font-weight: bold;
+}
+
+.td2{
+    font-family:monospace;
+    background-color: white;
+    border-right-color: chocolate;
+    border-bottom-style: dotted;
+    border-bottom-color: chocolate;
+    color: purple;
+    font-size: 18;
+    font-weight: bold;
+}
+
+th{
+    font-family: Copperplate Gothic;
+   background-image:url(images/1.jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    font-size: 25;
+    color:yellow;
+    border-right-color: chocolate;
+    border-bottom-color: chocolate;
+}
+
+p{
+    color: yellow;
+    background-color: purple;
+}
